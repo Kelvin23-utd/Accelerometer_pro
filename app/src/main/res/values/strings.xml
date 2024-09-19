@@ -1,0 +1,22 @@
+<!--<resources>-->
+<!--    <string name="app_name">MotionDetectionApp</string>-->
+<!--    <string name="x_format">X: %.2f m/s²</string>-->
+<!--    <string name="y_format">Y: %.2f m/s²</string>-->
+<!--    <string name="z_format">Z: %.2f m/s²</string>-->
+<!--    <string name="start">Start</string>-->
+<!--    <string name="stop">Stop</string>-->
+<!--    <string name="accelerometer_not_available">Accelerometer not available</string>-->
+<!--    <string name="default_acceleration">%1$s: 0.00 m/s²</string>-->
+<!--</resources>-->
+
+
+<resources>
+<string name="app_name">MotionDetectionApp</string>
+<string name="start">Start</string>
+<string name="stop">Stop</string>
+<string name="x_format">X: %.2f m/s²</string>
+<string name="y_format">Y: %.2f m/s²</string>
+<string name="z_format">Z: %.2f m/s²</string>
+<string name="accelerometer_not_available">Accelerometer not available</string>
+<string name="default_acceleration">%1$s: 0.00 m/s²</string>
+</resources>
